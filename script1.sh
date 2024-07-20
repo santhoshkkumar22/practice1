@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #script to define two values to do basic numerical operations
 
@@ -18,4 +19,6 @@ DIV=$(($a/$b))
 
 echo -e  "Addition=$ADD \n Subtraction=$SUB\n Multiply=$MUL\nDivide=$DIV"
 echo "todays date is `date`"
+echo "iam additional1" 
 echo "iam additional2"
+
